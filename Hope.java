@@ -18,9 +18,10 @@ public class Hope{
         System.out.println("THE TEXT YOU ENTERED HAS "+text2.length()+" LETTERS");
         value.close();
         //THIS FILES HAS BEEN MODIFIED IN THE branchInfo BRANCH 
-        while(max<4){
+        int x = 1;
+        while(x<4){
             System.out.println("BECAUSE GOD IS WITH ME");
-            max++;
+            x++;
         }
     }
 }
