@@ -17,5 +17,10 @@ public class Hope{
         String text2 = text.replace(" ", "");
         System.out.println("THE TEXT YOU ENTERED HAS "+text2.length()+" LETTERS");
         value.close();
+        //THIS FILES HAS BEEN MODIFIED IN THE branchInfo BRANCH 
+        while(max<4){
+            System.out.println("BECAUSE GOD IS WITH ME");
+            max++;
+        }
     }
 }
